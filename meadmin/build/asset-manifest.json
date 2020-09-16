@@ -1,0 +1,22 @@
+{
+  "main.css": "https://meadmin.techmugen.com/static/css/main.e178f205.chunk.css",
+  "main.js": "https://meadmin.techmugen.com/static/js/main.f3df8a30.chunk.js",
+  "main.js.map": "https://meadmin.techmugen.com/static/js/main.f3df8a30.chunk.js.map",
+  "runtime~main.js": "https://meadmin.techmugen.com/static/js/runtime~main.7bf9785e.js",
+  "runtime~main.js.map": "https://meadmin.techmugen.com/static/js/runtime~main.7bf9785e.js.map",
+  "static/css/2.c2ffd60a.chunk.css": "https://meadmin.techmugen.com/static/css/2.c2ffd60a.chunk.css",
+  "static/js/2.472cfd60.chunk.js": "https://meadmin.techmugen.com/static/js/2.472cfd60.chunk.js",
+  "static/js/2.472cfd60.chunk.js.map": "https://meadmin.techmugen.com/static/js/2.472cfd60.chunk.js.map",
+  "index.html": "https://meadmin.techmugen.com/index.html",
+  "precache-manifest.7e218bcc42915231ecd3f32c2a2a5fd1.js": "https://meadmin.techmugen.com/precache-manifest.7e218bcc42915231ecd3f32c2a2a5fd1.js",
+  "service-worker.js": "https://meadmin.techmugen.com/service-worker.js",
+  "static/css/2.c2ffd60a.chunk.css.map": "https://meadmin.techmugen.com/static/css/2.c2ffd60a.chunk.css.map",
+  "static/css/main.e178f205.chunk.css.map": "https://meadmin.techmugen.com/static/css/main.e178f205.chunk.css.map",
+  "static/media/reduction.css": "https://meadmin.techmugen.com/static/media/sprite.3f530608.png",
+  "static/media/100_4.jpg": "https://meadmin.techmugen.com/static/media/100_4.978e51b5.jpg",
+  "static/media/100_8.jpg": "https://meadmin.techmugen.com/static/media/100_8.a4be0bbf.jpg",
+  "static/media/300_13.jpg": "https://meadmin.techmugen.com/static/media/300_13.cc2a7932.jpg",
+  "static/media/background_1920-2.jpg": "https://meadmin.techmugen.com/static/media/background_1920-2.c54eef50.jpg",
+  "static/media/loader.gif": "https://meadmin.techmugen.com/static/media/loader.e62f80ff.gif",
+  "static/media/sidebar-1.jpg": "https://meadmin.techmugen.com/static/media/sidebar-1.929194fc.jpg"
+}
